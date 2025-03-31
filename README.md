@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm <a href="#" target="blank"></a></h1>
 
+![image](https://github.com/user-attachments/assets/4111d730-0ffd-46d7-a003-04dc3c998632)
+
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
