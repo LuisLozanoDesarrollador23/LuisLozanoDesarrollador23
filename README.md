@@ -49,12 +49,8 @@ I am a .NET Developer with experience in backend development and frontend techno
 
 <p align="center">
  <div align="center" class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;" target="_blank" href="#">
+        <a style="margin-left: 10px;" target="_blank" href="https://www.linkedin.com/feed/">
             <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="#">
-            <img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="#">
-            <img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png"></a>
 </p>
 
 <br>
